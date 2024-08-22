@@ -1,4 +1,4 @@
-package slicesandarrays
+package main
 
 import (
 	"reflect"

@@ -1,3 +1,3 @@
-module deneme
+module foo
 
-go 1.18
+go 1.22.2
